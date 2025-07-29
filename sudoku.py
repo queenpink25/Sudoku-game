@@ -1,3 +1,9 @@
+"""
+Author: Asasira
+Date: 2025-07-29
+
+"""
+
 import tkinter as tk
 from tkinter import simpledialog, messagebox
 
